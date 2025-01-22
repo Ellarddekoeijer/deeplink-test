@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
           <a href="https://deeplink-test-pearl.vercel.app/app">App link</a>
           <a href="arriva://e-tickets/order?id=2&hash=13/app">App arriva:</a>
+          <a href="https://deeplink-test-pearl.vercel.app/e-tickets/order?id=2&hash=13/app">app etickets page</a>
       </p>
     </>
   )
