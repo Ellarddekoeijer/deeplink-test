@@ -1,5 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.arrivatvv",
-    "sha256_cert_fingerprints": ["9D:25:08:07:98:35:EC:76:8E:6C:45:94:76:80:F2:C5:2A:6F:66:85:E8:49:88:E6:79:0F:EF:7F:A0:8A:3B:87"] }
-}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.arrivatvv",
+      "sha256_cert_fingerprints": [
+        "9D:25:08:07:98:35:EC:76:8E:6C:45:94:76:80:F2:C5:2A:6F:66:85:E8:49:88:E6:79:0F:EF:7F:A0:8A:3B:87"
+      ]
+    }
+  }
+]
